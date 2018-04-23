@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<FileNames>
+	<Game id= "Alarm Clock">
+		<image>./img/alarm/alarm_1.png</image>
+        	<image>./img/alarm/alarm_2.gif</image>
+       		<image>./img/alarm/alarm_3.png</image>
+        	<image>./img/alarm/alarm_4.gif</image>
+        	<image>./img/alarm/alarm_5.gif</image>
+        	<image>./img/alarm/alarm_6.png</image>
+		<tagline>Relive the same over and over again...with your nemesis, the alarm clock</tagline>
+		<description>
+			Alarm Clock is a comedic game that projects our frustrations with waking up early - or to an alarm clock. Day 					one, the player wakes up and destroys the alarm clock. But on day two, the alarm clock is revived with defenses. 			If you break the alarm clock, it will have protection on the next day. If you shoot it, it will gain a 						bulletproof vest the next day. However you try to break it, the alarm clock will revive and outsmart you.
+		</description>
+	</Game>
+	<Game id= "SnakeyBus">
+		<image>./img/snakeybus/snakeybus_1.png</image>
+		<image>./img/snakeybus/snakeybus_2.png</image>
+		<image>./img/snakeybus/snakeybus_3.png</image>
+		<image>./img/snakeybus/snakeybus_4.png</image>
+		<image>./img/snakeybus/snakeybus_5.png</image>
+		<image>./img/snakeybus/snakeybus_6.png</image>
+		<image>./img/snakeybus/snakeybus_7.png</image>
+		<image>./img/snakeybus/snakeybus_8.png</image>
+		<tagline>old school snake...but 3D and you're a bus!</tagline>
+		<description>
+			SnakeyBus is a endless arcade game inspired by old school 'Snake.' You drive around town picking up passengers... except the length of your bus grows the more people you pick up. Eventually you will need to thread thorugh the streets of the city and avoid crashing into yourself. Each round of gameplay is unique as the city is procedurally generated and passenger spawns are randomized.
+
+Getting the city to generate correctly and having the roads connect was a challenge. My initial attempts had issues with roads running into parks or roads running to different elvations.
+		</description>
+        	
+	</Game>
+	<Game id= "Base Wars">
+		<image>./img/base/base_1.png</image>
+		<image>./img/base/base_2.gif</image>
+		<image>./img/base/base_3.png</image>
+		<tagline>First one to fall off loses</tagline>
+		<description>
+			Base Wars is a simple, online pvp game. Two people stand on towers that resemble jenga blocks and try to knock each other off by shooting rockets and other projectiles.
+		</description>
+      	</Game>
+	<Game id= "Zen Bird">
+		<image>./img/bird/bird_1.jpg</image>
+		<tagline>Flappy bird without the frustration</tagline>
+		<description>
+			Zen Bird is a prototype game for mobile platforms. You play as a bird traveling from the South Pole to the North Pole. On your trip, you will pass by South America, LA, Seattle, Alaska, etc. The goal is to dive into the water and grab fish to fuel your energy and flight. The trick is to get the right timing.
+		</description>
+      	</Game>
+	<Game id= "Microwave">
+		<image>./img/microwave/microwave_1.jpg</image>
+		<tagline>Play as a microwave and fend off waves of enemies</tagline>
+		<description>
+			Made at Global Game Jam (72hrs), Microwave is a short game about microwaves vs utensils. The idea is that you shouldn’t stick forks or other metals into outlets. So as the microwave, the player will use their abilities, such as whacking their door or shooting waves, to defend its outlet. Eating food will unlock power ups!
+		</description>
+      	</Game>
+	<Game id= "Nightfall">
+		<image>./img/nightfall/nightfall_1.png</image>
+		<image>./img/nightfall/nightfall_2.png</image>
+		<image>./img/nightfall/nightfall_3.png</image>
+		<image>./img/nightfall/nightfall_4.png</image>
+		<image>./img/nightfall/nightfall_5.png</image>
+		<image>./img/nightfall/nightfall_6.png</image>
+		<image>./img/nightfall/nightfall_7.png</image>
+		<tagline>July 4th Simulator</tagline>
+		<description>
+			Summer nights are romantic and nostalgic. We made this environment to simulate a July 4th weekend camping experience. Explore the map and find out what type of camping activities are possible.
+		</description>
+      	</Game>
+	<Game id= "Ritual">
+		<image>./img/rituals/rituals_1.png</image>
+		<image>./img/rituals/rituals_2.png</image>
+		<tagline>still learning how to game dev</tagline>
+		<description>
+			Ritual was made at Global Game Jam 2016. The game is a simple dungeon crawler inspired by ‘Binding of Issac.’
+		</description>
+      	</Game>
+	<Game id= "SeaCraft">
+		<image>./img/seacraft/seacraft_1.png</image>
+		<image>./img/seacraft/seacraft_2.gif</image>
+		<image>./img/seacraft/seacraft_3.gif</image>
+		<image>./img/seacraft/seacraft_4.jpg</image>
+		<image>./img/seacraft/seacraft_5.jpg</image>
+		<image>./img/seacraft/seacraft_6.jpg</image>
+		<image>./img/seacraft/seacraft_7.jpg</image>
+		<image>./img/seacraft/seacraft_8.jpg</image>
+		<tagline>Voxel ship building and online pvp</tagline>
+		<description>
+			SeaCraft is a voxel building game where the player designs their own ships - optimizing turrets, engines, and armor. Does your ‘ship’ need to look like a ship? Build whatever you want, stick an engine on it and see if it floats. The pvp game mode tests the player’s ship and their ability to maneuver in the ocean.
+		</description>
+      	</Game>
+	<Game id= "Unamed Prototype 1">
+		<image>./img/spaceship/spaceship_1.jpg</image>
+		<image>./img/spaceship/spaceship_2.jpg</image>
+		<image>./img/spaceship/spaceship_3.jpg</image>
+		<image>./img/spaceship/spaceship_4.jpg</image>
+		<image>./img/spaceship/spaceship_5.jpg</image>
+		<image>./img/spaceship/spaceship_6.jpg</image>
+		<image>./img/spaceship/spaceship_7.jpg</image>
+		<image>./img/spaceship/spaceship_8.jpg</image>
+		<image>./img/spaceship/spaceship_9.jpg</image>
+		<tagline>An unfinished, learning experience</tagline>
+		<description>
+			My first attempt at a long-term project. The goal was to create a multiplayer space dogfighter with fast pace gameplay. Turns out the scope we imagined was beyond our abilities and more fit for a funded triple-A company. Before we called it quits, we got a prototype done with a playable spaceship and multiplayer (somewhat) working.
+		</description>
+      	</Game>
+	<Game id= "Orbital Defense">
+		<image>./img/orbital/orbital_1.gif</image>
+		<image>./img/orbital/orbital_2.png</image>
+		<image>./img/orbital/orbital_3.png</image>
+		<image>./img/orbital/orbital_4.png</image>
+		<image>./img/orbital/orbital_5.png</image>
+		<image>./img/orbital/orbital_6.png</image>
+		<image>./img/orbital/orbital_7.png</image>
+		<image>./img/orbital/orbital_8.png</image>
+		<tagline>tower defense meets asteroids</tagline>
+		<description>
+			Orbital defense is a mobile game that is similar to a tower defense, except that your defenses are binded to an orbital path. Players drag and launch satellites into orbit and have the ability to upgrade and expand each satellite to defend against incoming asteroids. 
+
+Personally, it was fun to incorporate calculus and astrophysic-concepts into a game. One example is when players launch their satellites. We wanted to give the players a preview / indicator of the orbital path before they launch, which requires orbital motion and integrals.
+
+		</description>
+      	</Game>
+
+</FileNames>
